@@ -16,7 +16,7 @@ macOS 26 Tahoe or later · Apple silicon and Intel · Signed and notarized by Ap
 
 [한국어](README.ko.md)
 
-<img src="images/en/panel.jpg" width="420" alt="The Olla panel: memory as blocks on a RAM stick">
+<img src="images/en/panel.webp" width="460" alt="The Olla panel: memory as blocks on a RAM stick">
 
 </div>
 
@@ -59,8 +59,8 @@ Afterwards a notification offers **Reopen**. If launchd restarts something, Olla
 Rest the pointer on a chip to see what's inside. Chromium and Electron apps (Chrome, Edge, Brave, Slack, VS Code, Claude and more) are split into **tab renderers · extensions · GPU · network · main**.
 
 <p>
-<img src="images/en/card-chrome.jpg" width="380" alt="Detail card for Google Chrome">
-<img src="images/en/card-model.jpg" width="380" alt="Drilled into Ollama's loaded models">
+<img src="images/en/card-chrome.webp" width="400" alt="Detail card for Google Chrome">
+<img src="images/en/card-model.webp" width="400" alt="Drilled into Ollama's loaded models">
 </p>
 
 ### 👻 Ghost detection and `/clear`
@@ -77,7 +77,7 @@ Rest the pointer on a chip to see what's inside. Chromium and Electron apps (Chr
 | Idle AI runtimes | ☐ |
 | Idle Jupyter kernels (their variables are lost) | ☐ |
 
-<img src="images/en/clear.jpg" width="380" alt="The /clear checklist">
+<img src="images/en/clear.webp" width="400" alt="The /clear checklist">
 
 ### 🤖 Four lenses: by app, runtime, agent and power
 
@@ -86,8 +86,8 @@ Rest the pointer on a chip to see what's inside. Chromium and Electron apps (Chr
 - **By power** shows per-process watts in a battery-shaped cell, with the cost per hour and per month at your local electricity price.
 
 <p>
-<img src="images/en/lens-agents.jpg" width="380" alt="The agent lens">
-<img src="images/en/lens-power.jpg" width="380" alt="The power lens">
+<img src="images/en/lens-agents.webp" width="400" alt="The agent lens">
+<img src="images/en/lens-power.webp" width="400" alt="The power lens">
 </p>
 
 ### 📈 Claude plan limits and token counts (optional)

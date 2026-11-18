@@ -16,7 +16,7 @@ macOS 26 Tahoe 이상 · Apple 실리콘·Intel · Apple 서명·공증 완료
 
 [English](README.md)
 
-<img src="images/ko/panel.jpg" width="420" alt="Olla 패널: 메모리를 RAM 스틱 위 블록으로 보여줘요">
+<img src="images/ko/panel.webp" width="460" alt="Olla 패널: 메모리를 RAM 스틱 위 블록으로 보여줘요">
 
 </div>
 
@@ -59,8 +59,8 @@ macOS 26 Tahoe 이상 · Apple 실리콘·Intel · Apple 서명·공증 완료
 칩 위에 마우스를 올려 두면 구성을 보여줘요. Chromium·Electron 앱(Chrome, Edge, Brave, Slack, VS Code, Claude 등)은 **탭 렌더러 · 확장 프로그램 · GPU · 네트워크 · 메인**으로 나눠서 보여줘요.
 
 <p>
-<img src="images/ko/card-chrome.jpg" width="380" alt="Google Chrome 상세 카드">
-<img src="images/ko/card-model.jpg" width="380" alt="Ollama에 올라간 모델로 들어간 화면">
+<img src="images/ko/card-chrome.webp" width="400" alt="Google Chrome 상세 카드">
+<img src="images/ko/card-model.webp" width="400" alt="Ollama에 올라간 모델로 들어간 화면">
 </p>
 
 ### 👻 유령 탐지 & `/clear`
@@ -77,7 +77,7 @@ macOS 26 Tahoe 이상 · Apple 실리콘·Intel · Apple 서명·공증 완료
 | 유휴 AI 런타임 | ☐ |
 | 유휴 Jupyter 커널 (변수 상태가 사라져요) | ☐ |
 
-<img src="images/ko/clear.jpg" width="380" alt="/clear 체크리스트">
+<img src="images/ko/clear.webp" width="400" alt="/clear 체크리스트">
 
 ### 🤖 네 가지 보기: 앱별 · 런타임별 · 에이전트별 · 전력별
 
@@ -86,8 +86,8 @@ macOS 26 Tahoe 이상 · Apple 실리콘·Intel · Apple 서명·공증 완료
 - **전력별**은 프로세스별 전력(W)을 배터리 모양 칸에 보여주고, 사는 지역의 전기 요금으로 시간당·월간 비용도 계산해요.
 
 <p>
-<img src="images/ko/lens-agents.jpg" width="380" alt="에이전트별 보기">
-<img src="images/ko/lens-power.jpg" width="380" alt="전력별 보기">
+<img src="images/ko/lens-agents.webp" width="400" alt="에이전트별 보기">
+<img src="images/ko/lens-power.webp" width="400" alt="전력별 보기">
 </p>
 
 ### 📈 Claude 요금제 한도와 토큰 수 (선택)
