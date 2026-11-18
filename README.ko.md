@@ -181,4 +181,4 @@ Olla를 종료하고(패널의 전원 버튼) 응용 프로그램 폴더에서 �
 
 ---
 
-<sub>© 2026 Olla. All rights reserved.</sub>
+<sub>만든 사람 [DIJEONG](https://github.com/DIJEONG) · © 2026 DIJEONG. All rights reserved.</sub>

@@ -181,4 +181,4 @@ Found a bug or have an idea? [Open an issue](https://github.com/DIJEONG/olla-rel
 
 ---
 
-<sub>© 2026 Olla. All rights reserved.</sub>
+<sub>Made by [DIJEONG](https://github.com/DIJEONG) · © 2026 DIJEONG. All rights reserved.</sub>
